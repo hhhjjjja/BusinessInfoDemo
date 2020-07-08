@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948156268820",
+    "firebase_url": "https://businessinfodemo.firebaseio.com",
+    "project_id": "businessinfodemo",
+    "storage_bucket": "businessinfodemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948156268820:android:34021ba2dbf2885e810201",
+        "android_client_info": {
+          "package_name": "com.hustar.businessinfodemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948156268820-fkelhi1lt13aiqr7ert3pd7i2j4qumpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCz4pKfMskdk5HaUTX6V6PImt1X_lx50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948156268820-fkelhi1lt13aiqr7ert3pd7i2j4qumpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
