@@ -1,11 +1,11 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
 <!--        타이틀바(툴바) 색깔-->
-        <item name="colorPrimary">#DEB8B8</item>
+        <item name="colorPrimary">#ffffff</item>
 <!--        상태바 색깔-->
-        <item name="colorPrimaryDark">#F7D7D7</item>
+        <item name="colorPrimaryDark">#A30F1D5B</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
